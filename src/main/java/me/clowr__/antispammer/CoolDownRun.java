@@ -41,6 +41,8 @@ public class CoolDownRun  implements CommandExecutor , Listener {
 
     }
 
+
+    //Spigot server command function when player types ina  command in the command line chat in the server.
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
 
