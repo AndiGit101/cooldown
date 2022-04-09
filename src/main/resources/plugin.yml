@@ -1,0 +1,16 @@
+name: AntiSpammer
+version: '${project.version}'
+main: me.clowr__.antispammer.AntiSpammer
+api-version: 1.18
+commands:
+  cEnable:
+    description: Enable a cooldown on an online player
+    usage: /<command>
+
+  cDisable:
+    description: Disbale the current cooldown on a player online
+    usage: /<command>
+
+
+
+
